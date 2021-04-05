@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="wx@222.20.96.2:4396">
+    <serverData>
+      <paths name="wx@222.20.96.2:4396">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wx/pycharm_project/head_angle_correct_0325" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wx@222.20.96.2:4396 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wx/pycharm_project/head_angle_correct_0325" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
